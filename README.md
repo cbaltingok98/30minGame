@@ -1,2 +1,2 @@
 # 30minGame
-Make a game while waiting for your pizza
+Make a game before your pizza arrives
