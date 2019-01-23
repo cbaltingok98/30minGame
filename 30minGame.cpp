@@ -67,8 +67,8 @@ void Game::uploadFile() {
 }
 
 void Game::updateGame() {
-	for (int i = 0; i < map.size(); i++) {
-		cout << map.at(i) << endl;
+	for (string display : map){
+		cout << display << endl;
 	}
 }
 
